@@ -25,14 +25,14 @@ namespace HomeWork
             Books.Add(book);    
         }
 
-        public Book GetBookById(int id)
+        public Book GetBookById(int? id)
         {
             if (id == null) throw new NullReferenceException("id null ola bilmez...");
 
             return Books.Find(x => x.Id == id);
         }
 
-        public void RemoveById(int id)
+        public void RemoveById(int? id)
         {
             if (id == null) throw new NullReferenceException("id null ola bilmez...");
 

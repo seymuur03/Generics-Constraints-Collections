@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HomeWork"
+    "\\HomeWork",
+    "\\HomeWork\\Models",
+    "\\HomeWork\\Services"
   ],
   "SelectedNode": "\\GenericConstraintsCollection.sln",
   "PreviewInSolutionExplorer": false

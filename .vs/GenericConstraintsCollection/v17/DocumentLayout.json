@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\genericconstaintscollection\\genericconstraintscollection\\homework\\services\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\services\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\genericconstaintscollection\\genericconstraintscollection\\homework\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\genericconstaintscollection\\genericconstraintscollection\\homework\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\genericconstaintscollection\\genericconstraintscollection\\homework\\services\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\services\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\genericconstaintscollection\\genericconstraintscollection\\homework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\genericconstaintscollection\\genericconstraintscollection\\homework\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\genericconstaintscollection\\genericconstraintscollection\\homework\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\genericconstaintscollection\\genericconstraintscollection\\homework\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA68FE81-B468-4BF3-9ACA-6F54680AEC18}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,53 +38,79 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "HomeWork\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:40:32.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CapacityLimitException.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Exceptions\\CapacityLimitException.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Exceptions\\CapacityLimitException.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Exceptions\\CapacityLimitException.cs",
+              "RelativeToolTip": "HomeWork\\Exceptions\\CapacityLimitException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:40:23.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Models\\Library.cs",
               "RelativeDocumentMoniker": "HomeWork\\Models\\Library.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Models\\Library.cs",
               "RelativeToolTip": "HomeWork\\Models\\Library.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwBgAAAAPAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T14:36:19.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Models\\Book.cs",
               "RelativeDocumentMoniker": "HomeWork\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Models\\Book.cs",
               "RelativeToolTip": "HomeWork\\Models\\Book.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBMAAAAJAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:15:38.059Z"
+              "WhenOpened": "2024-10-18T14:15:38.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Services\\Product.cs",
               "RelativeDocumentMoniker": "HomeWork\\Services\\Product.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Services\\Product.cs",
               "RelativeToolTip": "HomeWork\\Services\\Product.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T14:06:48.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Services\\Program.cs",
               "RelativeDocumentMoniker": "HomeWork\\Services\\Program.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\GenericConstaintsCollection\\GenericConstraintsCollection\\HomeWork\\Services\\Program.cs",
               "RelativeToolTip": "HomeWork\\Services\\Program.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAIwHIAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:42:21.976Z"
+              "WhenOpened": "2024-10-18T13:42:21.976Z",
+              "EditorCaption": ""
             }
           ]
         }
